@@ -1,13 +1,17 @@
 API Testing Project 
+------------------------------------------------------------------------------
 
 This project demonstrates API testing for the Restful Booker application.  
 The testing was performed to validate booking-related endpoints using multiple positive and negative test scenarios.
 
 Project Objective
+------------------------------------------------------------------------------
 
 The objective of this project is to test the core functionalities of the Booking API and ensure that all endpoints work correctly under different conditions.
 
 Tested Endpoints
+------------------------------------------------------------------------------
+
 1. Get Booking ID  
 GET /booking
 
@@ -27,6 +31,7 @@ POST /booking
    DELETE /booking/{id}
 
 Test Scenarios Covered
+------------------------------------------------------------------------------
 
 Each API endpoint contains 10–12 test cases including:
 
@@ -44,6 +49,7 @@ Each API endpoint contains 10–12 test cases including:
 -Additional Need
 
 Tools Used
+------------------------------------------------------------------------------
 
 - Postman
 - Excel
@@ -51,10 +57,8 @@ Tools Used
 
 
 
-
-
-
 Project Files
+------------------------------------------------------------------------------
 
 	Test Cases
 	Get_Bookingid.xlsx
@@ -67,6 +71,7 @@ Project Files
 
 
 Author
+------------------------------------------------------------------------------
 
 Created by Shafaeat Rahman Tushar  
 QA Engineer (Aspiring) | API Testing Practice Project
